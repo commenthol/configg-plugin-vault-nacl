@@ -1,0 +1,13 @@
+/node_modules
+/coverage
+/config
+/examples
+/docs
+/test
+/tmp
+.*
+*.log
+*.tgz
+Makefile
+TODO.md
+yarn.lock

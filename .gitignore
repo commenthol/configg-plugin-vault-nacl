@@ -1,0 +1,8 @@
+/node_modules
+/coverage
+/docs
+/tmp
+*.log
+*.tgz
+.eslintcache
+.nyc_output/
