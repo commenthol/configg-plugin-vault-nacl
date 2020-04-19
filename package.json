@@ -1,6 +1,6 @@
 {
   "name": "configg-plugin-vault-nacl",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "vault-nacl plugin for configg",
   "keywords": [
     "configg-plugin",
